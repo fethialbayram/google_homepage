@@ -78,7 +78,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 .input-area {
   color: transparent;
   flex: 100%;
-  white-space: pre;
   font: 16px arial, sans-serif;
   line-height: 34px;
   height: 34px !important;
@@ -93,7 +92,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   outline: none;
   display: flex;
   flex: 100%;
-  margin-top: -68px;
   font: 16px arial, sans-serif;
   line-height: 34px;
   height: 34px !important;
@@ -105,9 +103,8 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-shadow: none;
   text-align: start;
   appearance: textfield;
-  cursor: text;
   border-style: hidden;
-  width: 424px;
+  width: 480px;
 }
 
 .googlesearch {
